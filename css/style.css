@@ -1,0 +1,15 @@
+.img-background {
+  background-image: url("../images/vector-clover-leaf-seamless-background.webp");
+  background-size: 50%;
+  background-position: center;
+  background-attachment: fixed;
+}
+.img-head {
+  min-width: 100%;
+}
+.fonce {
+  opacity: 5%;
+}
+.fonce-1 {
+  background-color: #dcdcdc;
+}
